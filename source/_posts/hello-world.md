@@ -1,38 +1,67 @@
 ---
-title: Hello World
+title: 2024年秋季算法基础课程介绍
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+### 任课教师
+> - [李向阳](http://staff.ustc.edu.cn/~xiangyangli/)，邮箱：xiangyangli@ustc.edu.cn
+> - [谈海生](http://staff.ustc.edu.cn/~hstan/research.html)，邮箱：hstan@ustc.edu.cn
 
-### Create a new post
+### 助教
 
-``` bash
-$ hexo new "My New Post"
-```
+| 姓名   | 邮箱                           | Q&A Time                   |
+| ------ | ------------------------------ | -------------------------- |
+| 章馨月 | xinyuezhang@mail.ustc.edu.cn   | 周一 9:00p.m. ~ 11:00 p.m. |
+| 胡毅翔 | yixianghu@mail.ustc.edu.cn     | 周二 9:00p.m. ~ 11:00 p.m. |
+| 张婧苗 | nanshan@mail.ustc.edu.cn       | 周三 9:00p.m. ~ 11:00 p.m. |
+| 刘知源 | mizuhara@mail.ustc.edu.cn      | 周四 9:00p.m. ~ 11:00 p.m. |
+| 曾舒立 | zengshuli0130@mail.ustc.edu.cn | 周五 9:00p.m. ~ 11:00 p.m. |
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 课程时间
+> - 第一至第十五周
+> - 周二（2:00 p.m. - 3:35 p.m.)
+> - 周四（2:00 p.m. - 3:35 p.m.)
 
-### Run server
+### 教室
 
-``` bash
-$ hexo server
-```
+高新校区 GT-B212
 
-More info: [Server](https://hexo.io/docs/server.html)
+### 课程群
 
-### Generate static files
+QQ群号：626321052
 
-``` bash
-$ hexo generate
-```
+----
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+### 课本
 
-### Deploy to remote sites
+> - [📖*Cormen, Leiserson and Rivest, Introduction to Algorithms, MIT Press/McGraw Hill, 3rd edition.* ](https://rec.ustc.edu.cn/share/a7256ea0-66a7-11ef-8ae6-e76395b22aca)
+> - [📖算法导论](https://rec.ustc.edu.cn/share/8e035aa0-66a7-11ef-aa30-7f8a633bf906)
 
-``` bash
-$ hexo deploy
-```
+### Course goals
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Students should be able to：
+
+> - Use big O, Omega, and Theta notation to give asymptotic upper, lower, and tight bounds on time and space complexity of algorithms.
+> - Determine the time complexity of simple algorithms, deduce the recurrence relations that describe the time complexity of recursively defined algorithms, and solve simple recurrence relations.
+> - Design algorithms using strategies such as the <b>brute-force, greedy, dynamic programming, divide-and-conquer</b>.
+> - Use and implement the fundamental abstract data types --specifically including <b> tables, binary search trees, and graphs</b> -- necessary to solve algorithmic problems efficiently.
+> - Solve problems using techniques learned in the design of <b>sequential search, binary search, O(N log N) sorting algorithms</b>, and graph algorithms, including <b>depth-first and breadth-first search, single-source</b> and <b>all-pairs shortest paths</b>, and at least one <b>minimum spanning tree algorithm</b>.
+> - Demonstrate the following abilities: to evaluate algorithms, to select from a range of possible options, to provide justification for that selection, and to implement the algorithm in simple programming contexts.
+> - Communicate theoretical and experimental analyses of algorithms.
+
+### 课程评估
+
+> - 作业和实验 **25%** 
+>   - 作业每周都会有明确的截止日期
+>   - 5~6 次实验。
+> - 期中考试 **20%**
+> - 期末考试 **40%**
+> - 到课情况和课堂表现 **15%**
+>   - 出勤及课堂测验 (**10%**).
+>   - 积极的学生（例如，与老师互动）将有机会获得5分 (**5%**).
+
+### 作业和实验提交
+
+> - 作业在[blackboard系统](https://www.bb.ustc.edu.cn/)上提交
+>   - 作业命名格式：学号_姓名.文件拓展名 (c.g., PB19011000_ZhangSan.pdf)
+>   - Latex is perferred.
+> - 实验网址待定，第一次实验将在九月底发布

@@ -1,0 +1,784 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+  <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+  <meta name=ProgId content=FrontPage.Editor.Document>
+  <meta name=Generator content="Microsoft FrontPage 5.0">
+  <meta name=Originator content="Microsoft Word 9">
+  <title>Introduction to Algorithms</title>
+
+  <style>
+    .tablecolor1 {
+      background-color: rgb(201, 175, 120);
+      /* color: white; */
+    }
+
+    .tablecolor2 {
+      background-color: rgb(82, 151, 88);
+      /* color: white; */
+    }
+
+    .tablecolor3 {
+      background-color: rgb(171, 199, 173);
+      /* color: white; */
+    }
+
+    .tablecolor4 {
+      background-color: rgb(88, 148, 167);
+      /* color: white; */
+    }
+
+    .tablecolor5 {
+      background-color: rgb(185, 84, 84);
+      /* color: white; */
+    }
+
+    .tablecolor6 {
+      background-color: rgb(164, 188, 196);
+      /* color: white; */
+    }
+
+    .hw_act {
+      color: #bb1212;
+      font-weight: bold;
+    }
+
+    .hw_disable {
+      color: black;
+      text-decoration: line-through;
+    }
+  </style>
+</head>
+<!-- header begin -->
+
+<body bgcolor="#eaeaea" lang=EN-US link=blue vlink=blue style='tab-interval:
+.5in'>
+  <h1 align=center style='text-align:center'>
+    &nbsp;<b>
+      <font face="Times New Roman">Introduction to Algorithms</font>
+    </b></h1>
+
+  <p align=center>
+    <font size="4">School of Computer Science and Technology, USTC<br>Fall Semester 2023
+    </font>
+  </p>
+  <hr width="85%" style="border-top:2px solid #bb1212" />
+  <!-- header end -->
+
+  <!-- Course Information begin -->
+  <h3>
+    <font size="5" face="Times New Roman">Course Information </font>
+    <o:p></o:p>
+  </h3>
+
+  <font face="Times New Roman">
+
+    <table>
+      <tr>
+        <td valign="top">
+          <p class=MsoNormal><a name=info><u><b>
+                  <font size="3">Instructors</font>
+                </b>:</u></a>
+        </td>
+        <td valign="top">
+          <font size="3"><a href="http://staff.ustc.edu.cn/~xiangyangli">&nbsp;Xiang-Yang Li</a>, <a
+              href="mailto:xiangyangli@ustc.edu.cn">xiangyangli@ustc.edu.cn </a><br>
+            <font size="3"><a href="http://staff.ustc.edu.cn/~hstan">&nbsp;Haisheng Tan</a>, <a
+                href="mailto:hstan@ustc.edu.cn">hstan@ustc.edu.cn </a><br><br>
+        </td>
+      </tr>
+
+      <tr>
+        <td valign="top">
+          <p class=MsoNormal><a name=info><u><b>
+                  <font size="3">TAs</font>
+                </b>:</u></a>
+        </td>
+        <td valign="top">
+          &nbsp;Yingqi Yu, <a href="mailto:yu971207@mail.ustc.edu.cn">yu971207@mail.ustc.edu.cn</a>&nbsp; <br>
+          &nbsp;Di Wu, <a href="mailto:diwu@mail.ustc.edu.cn">diwu@mail.ustc.edu.cn</a>&nbsp; <br>
+          &nbsp;Xinyue Zhang, <a href="mailto:xinyuezhang@mail.ustc.edu.cn">xinyuezhang@mail.ustc.edu.cn</a>&nbsp; <br>
+          &nbsp;Honglin Chen, <a href="mailto:chl777@mail.ustc.edu.cn">chl777@mail.ustc.edu.cn</a>&nbsp; <br>
+          &nbsp;Yixiang Hu, <a href="mailto:yixianghu@mail.ustc.edu.cn">yixianghu@mail.ustc.edu.cn</a>&nbsp; <br>
+          <!-- <font size="3"><a href="http://staff.ustc.edu.cn/~hstan">Haisheng Tan</a>, <a href="mailto:hstan@ustc.edu.cn">hstan@ustc.edu.cn </a><br> -->
+          <br>
+        </td>
+      </tr>
+    </table>
+
+
+    <!-- <p class=MsoNormal><a name=info><b><font size="3">Lecturer:</font></b></a>
+    <font size="3"><a href="http://staff.ustc.edu.cn/~xiangyangli">Xiang-Yang Li</a>, <a href="mailto:xiangyangli@ustc.edu.cn">xiangyangli@ustc.edu.cn </a><br>
+
+<p class=MsoNormal><a name=info><b><font size="3">Lecturer:</font></b></a>
+    <font size="3"><a href="http://staff.ustc.edu.cn/~hstan">Haisheng Tan</a>, <a href="mailto:hstan@ustc.edu.cn">hstan@ustc.edu.cn </a><br> -->
+
+    <!-- <p><b><font size="3">TA:</font></b><font size="3"> Chi Zhang, <a href="mailto:gzhnciha@mail.ustc.edu.cn">gzhnciha@mail.ustc.edu.cn</a>&nbsp; <br>
+
+<p><b><font size="3">TA:</font></b><font size="3"> Wanli Cao, <a href="mailto:cwl233@mail.ustc.edu.cn">cwl233@mail.ustc.edu.cn</a>&nbsp; <br>
+
+<p><b><font size="3">TA:</font></b><font size="3"> Jiaying Meng, <a href="mailto:mengjy@mail.ustc.edu.cn">mengjy@mail.ustc.edu.cn</a>&nbsp; <br>
+
+<p><b><font size="3">TA:</font></b><font size="3"> Haikuo Yu, <a href="mailto:yhk7786@mail.ustc.edu.cn">yhk7786@mail.ustc.edu.cn</a>&nbsp; <br> -->
+
+    <!-- Course Information end -->
+
+    <table>
+      <tr>
+        <td valign="top">
+          <p class=MsoNormal><U>
+              <font size="3"><b>Lecture Time</b></font>:
+            </U>
+        </td>
+        <td>
+          <font style="font-weight: bold">
+            Tuesday (2:00 p.m. - 3:35 p.m.) <br>
+            Thursday (2:00 p.m. - 3:35 p.m.) <br> </font>
+        </td>
+
+      </tr>
+      <!-- ▶ Weekly Recitation: 15:35 – 16:35 on every Tuesday (Tentative, to be discussed with students) -->
+      <tr>
+        <td valign="top">
+          <p class=MsoNormal><a name=info><u><b>
+                  <font size="3">Room</font>
+                </b>:</u></a>
+        </td>
+        <td valign="top">
+          <font style="font-weight: bold"> GT-B212 </font> <br><br>
+        </td>
+      </tr>
+
+      <tr>
+        <td valign="top">
+          <p class=MsoNormal><a name=info><u><b>
+                  <font size="3">Q&A Time</font>
+                </b>:</u></a>
+        </td>
+        <td valign="top">
+          Mon. 9:00 p.m. - 11:00 p.m. Yingqi Yu<br>
+          Tues. 9:00 p.m. - 11:00 p.m. Di Wu <br>
+          Wed. 9:00 p.m. - 11:00 p.m. Xinyue Zhang <br>
+          Thur. 9:00 p.m. - 11:00 p.m. Honglin Chen <br>
+          Fri. 9:00 p.m. - 11:00 p.m. Yixiang Hu <br>
+        </td>
+      </tr>
+
+      <tr>
+        <td valign="top">
+          <p class=MsoNormal><a name=info><u><b>
+                  <font size="3">QQ Group</font>
+                </b>:</u></a>
+        </td>
+        <td valign="top">
+          Group No.916378049
+          <br><br>
+        </td>
+      </tr>
+
+      <!--
+  <tr>
+    <td valign="top"><p class=MsoNormal><a name=info><u><b><font size="3">Online Room</font></b>:</u></a></td>
+    <td valign="top"> 
+      <font style="font-weight: bold" > Tencent Meeting 5749782853  </font> <br><br>
+    </td>
+</tr>
+-->
+    </table>
+
+    <!-- <P><U><font size="3"><b>Lecture Time and Room</b>:</font></U><font size="3"> Tuesday 2:00PM-3:35PM, Thursday 9:45AM-11:20AM. Room 3A212. -->
+    <!-- </font> -->
+    <!-- </P> -->
+
+
+    <P><U>
+        <font size="3"><b>Textbooks</b>:</font>
+      </U>
+      <font size="3"> Cormen, Leiserson and Rivest,
+        <b><i>Introduction to Algorithms</i></b>, MIT Press/McGraw Hill, 3rd edition.
+      </font>
+    </P>
+
+    <p>
+      <font color="#000000" size="3"><u><b>Course Goals</b>:</u> Students should be
+        able to:</font>
+    </p>
+    <ol>
+      <li>
+        <font color="#000000" face="Times New Roman" size="3">Use big O, Omega, and Theta notation to give asymptotic
+          upper, lower, and tight bounds on time and space complexity of algorithms.</font>
+      </li>
+
+      <li>
+        <font color="#000000" face="Times New Roman" size="3">Determine the time complexity of simple algorithms, deduce
+          the recurrence relations that describe the time complexity of recursively defined algorithms, and solve simple
+          recurrence relations. </font>
+      </li>
+
+      <li>
+        <font color="#000000" face="Times New Roman" size="3">Design algorithms using strategies such as the
+          <b>brute-force, greedy, dynamic programming, divide-and-conquer</b>. </font>
+      </li>
+
+      <li>
+        <font color="#000000" face="Times New Roman" size="3">Use and implement the fundamental abstract data types --
+          specifically including <b> tables, binary search trees, and graphs</b> -- necessary to solve algorithmic
+          problems efficiently.</font>
+      </li>
+
+      <li>
+        <font color="#000000" face="Times New Roman" size="3">Solve problems using techniques learned in the design of
+          <b>sequential search, binary search, O(N log N) sorting algorithms</b>, and graph algorithms, including
+          <b>depth-first and breadth-first search, single-source</b> and <b>all-pairs shortest paths</b>, and at least
+          one <b>minimum spanning tree algorithm</b>.</font>
+      </li>
+
+      <li>
+        <font color="#000000" face="Times New Roman" size="3">Demonstrate the following abilities: to evaluate
+          algorithms, to select from a range of possible options, to provide justification for that selection, and to
+          implement the algorithm in simple programming contexts.</font>
+      </li>
+
+      <li>
+        <font color="#000000" face="Times New Roman" size="3">Communicate theoretical and experimental analyses of
+          algorithms. </font>
+      </li>
+    </ol>
+
+    <p>
+      <font color="#000000" size="3"><u><b>Course Load</b>:</u> </font>
+    </p>
+    <ul>
+      <li>
+        <font face="Times New Roman" size="3">Assignments and Experiments -- 25% </font>
+      </li>
+      <ul>
+        <li>Assignments will be assigned every week with <font style="font-weight: bold" color="#cc0101">firm</font>
+          deadlines.</li>
+        <li>5 experiments.</li>
+      </ul>
+      <li>
+        <font face="Times New Roman" size="3">Midterm Exam -- 20%</font>
+      </li>
+      <li>
+        <font face="Times New Roman" size="3">Final Exam -- 40% </font>
+      </li>
+      <li>
+        <font face="Times New Roman" size="3">Class Attendance and Activity -- 15% </font>
+        <ul>
+          <li> Attendance and in-class quiz (10%).</li>
+          <li> Active students (e.g., interacting with instructors) will win the other 5 points (5%).</li>
+        </ul>
+      </li>
+    </ul>
+
+    <p>
+      <font color="#000000" size="3"><u><b>Assignment Submission</b>:</u> </font>
+    </p>
+    <ul>
+      <li>
+        <font face="Times New Roman" size="3">bb platform: <a
+            href="https://www.bb.ustc.edu.cn/">https://www.bb.ustc.edu.cn/</a> </font>
+      </li>
+      <!-- <li><font face="Times New Roman" size="3">FTP Server: <a href="ftp://202.38.86.171">ftp://202.38.86.171</a> </font></li>
+    <li><font face="Times New Roman" size="3">Username: algHW </font> </li>
+    <li><font face="Times New Roman" size="3">Password: clrs </font> </li> -->
+      <li>
+        <font face="Times New Roman" size="3">File Format: studentID_name.extension (e.g.,
+          <b>PB19011000_ZhangSan.pdf</b>) </font>
+      </li> <br>
+      <li>
+        <font face="Times New Roman" size="3">OnlineJudge Website: <a
+            href="https://cloud.linkeedge.top:14432/">OnlineJudge </a> </font>
+      </li>
+
+      <li>
+        <font face="Times New Roman" size="3">The initial username and password are the same as your student ID (e.g.,
+          username: pb19011000, password: pb19011000 (in lowercase)). Please change your password after login </font>
+      </li>
+      <!-- <li><font face="Times New Roman" size="3">OnlineJudge Problem Statistics (beta): <a href="statistics.html">Statistics</a> </font>  </li> <br> -->
+      <li>
+        <font face="Times New Roman" size="3" style="font-weight: bold" color="#bb1212">If you encounter any problems
+          about assignment submission and OnlineJudge using,
+          please contact the course TAs (<a href="mailto:xinyuezhang@mail.ustc.edu.cn">xinyuezhang@mail.ustc.edu.cn</a>
+          or <a href="mailto:546409178@qq.com">546409178@qq.com</a>) </font>
+      </li>
+    </ul>
+
+    <p>
+      <font color="#000000" size="3"><u><b>Assignments</b>:</u> </font>
+    </p>
+    <ul>
+      <li>
+        <b>HW1: <a href="homework/hw1.pdf">hw1.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Oct. 10</span>
+      </li>
+      <li>
+        <b>HW2: <a href="homework/hw2.pdf">hw2.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Oct. 17</span>
+      </li>
+
+      <li>
+        <b>HW3: <a href="homework/hw3.pdf">hw3.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Oct. 24</span>
+      </li>
+
+      <li>
+        <b>HW4: <a href="homework/hw4.pdf">hw4.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Nov. 7</span>
+      </li>
+
+      <li>
+        <b>HW5: <a href="homework/hw5.pdf">hw5.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Nov. 14</span>
+      </li>
+
+      <li>
+        <b>HW6: <a href="homework/hw6.pdf">hw6.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Nov. 21</span>
+      </li>
+
+      <li>
+        <b>HW7: <a href="homework/hw7.pdf">hw7.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Nov. 28</span>
+      </li>
+
+      <li>
+        <b>HW8: <a href="homework/hw8.pdf">hw8.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Dec. 12</span>
+      </li>
+
+      <li>
+        <b>HW9: <a href="homework/hw9.pdf">hw9.pdf </a></b>
+        <br>
+        <span class="hw_disable">Deadline: 23:59, Dec. 19</span>
+      </li>
+
+    </ul>
+
+    <p>
+      <font color="#000000" size="3"><u><b>Experiments</b>:</u> </font>
+    </p>
+    <ul>
+      <b>Password: 2023algorithm </b>
+      <p></p>
+      <b>https://cloud.linkeedge.top:14432/</b>
+    </ul>
+
+    <!-- <p><font color="#000000" size="3"><u><b>Tentative Schedule ???</b>:</u> </font></p> -->
+    <p>
+      <font color="#000000" size="3"><u><b>Schedule</b>:</u> </font>
+    </p>
+
+    <!-- <h3><font size="5" face="Times New Roman">Schedule </font> <o:p></o:p></h3> -->
+    <!-- Password of Slides: <b>clrs</b>  -->
+
+    <ul>
+      <li>
+        <font face="Times New Roman" size="3">Password of Slides: <b>clrs</b> </font>
+      </li>
+    </ul>
+    <TABLE BORDER=1 style="text-align:center">
+      <center>
+        <TR>
+          <TD><B>Week</B></TD>
+          <TD><B>Date</B></TD>
+          <TD><B>Topic</B></TD>
+          <TD><B>Content</B></TD>
+          <TD><B>Slides</B></TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>1</TD>
+          <TD>2023.9.5, Tues.</TD>
+          <TD>Topic 0: Introduction</TD>
+          <TD align="left">Introduction</TD>
+          <TD>
+            <a href="slides/Topic_0.pdf">Topic_0.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>1</TD>
+          <TD>2023.9.5, Tues.</TD>
+          <TD>Topic 1: Algorithm Concept</TD>
+          <TD align="left">
+            <b>Chapter 1.</b> The Role of Algorithms in Computing <br>
+            <b>Chapter 2.</b> Getting Started
+          </TD>
+          <TD>
+            <a href="slides/Topic_1.pdf">Topic_1.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>1</TD>
+          <TD>2023.9.7, Thur.</TD>
+          <TD>Topic 2: Asymptotic Mark and Recursive Equation</TD>
+          <TD align="left">
+            <b>Chapter 3.</b> Growth of Functions
+          </TD>
+          <TD>
+            <a href="slides/Topic_2.pdf">Topic_2.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>2</TD>
+          <TD>2023.9.12, Tues.</TD>
+          <TD>Topic 2: Asymptotic Mark and Recursive Equation</TD>
+          <TD align="left">
+            <b>Chapter 3.</b> Growth of Functions
+          </TD>
+          <TD>
+            -
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>3</TD>
+          <TD>2023.9.14, Thur.</TD>
+          <TD>Topic 3: Comparison Based Sorting Algorithms</TD>
+          <TD align="left">
+            Simple Sorting Algorithms <br>
+            Shellsort
+          </TD>
+          <TD>
+            <a href="slides/Topic_3.pdf">Topic_3.pdf </a>
+          </TD>
+        </TR>
+
+
+        <TR class="tablecolor2">
+          <TD>4</TD>
+          <TD>2023.9.19, Tues.</TD>
+          <TD>Topic 3: Comparison Based Sorting Algorithms</TD>
+          <TD align="left">
+            <b>Chapter 6.</b> Heapsort<br>
+            <b>Chapter 7.</b> Quicksort
+          </TD>
+          <TD>
+            -
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>4</TD>
+          <TD>2023.9.21, Thur.</TD>
+          <TD>Topic 4-1: Sorting in Linear Time<br>
+            Topic 4-2: Medians and Order Statistics
+          </TD>
+          <TD align="left">
+            <b>Chapter 8.</b> Sorting in Linear Time<br>
+            <b>Chapter 9.</b> Medians and Order Statistics
+          </TD>
+          <TD>
+            <a href="slides/Topic_4_Ch8.pdf">Topic_4_Ch8.pdf </a><br>
+            <a href="slides/Topic_4_Ch9.pdf">Topic_4_Ch9.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>5</TD>
+          <TD>2023.9.26, Tues.</TD>
+          <TD>Topic 5-1: Advanced Data Structures I</TD>
+          <TD align="left">
+            <b>Chapter 12.</b> Binary Search Tree<br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_5_1.pdf">Topic_5_1.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>6</TD>
+          <TD>2023.9.28, Thur.</TD>
+          <TD>Topic 5-1: Advanced Data Structures I</TD>
+          <TD align="left">
+            <b>Chapter 13.</b> Red-Black Tree<br>
+          </TD>
+          <TD>
+            -
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>6</TD>
+          <TD>2023.10.12, Thur.</TD>
+          <TD>Topic 5-2: Advanced Data Structures II</TD>
+          <TD align="left">
+            Binomial Heap<br>
+            <b>Chapter 19.</b> Fibonacci Heap<br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_5_2.pdf">Topic_5_2.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>7</TD>
+          <TD>2023.10.17, Tues.</TD>
+          <TD>Topic 5-2: Advanced Data Structures II</TD>
+          <TD align="left">
+            <b>Chapter 19.</b> Fibonacci Heap<br>
+            <b>Chapter 21.</b> Data Structures for Disjoint Sets<br>
+          </TD>
+          <TD>
+            -
+          </TD>
+        </TR>
+
+        <!-- <TR class="tablecolor4">
+        <TD>7</TD>
+        <TD>2023.10.21, Thur.</TD>
+        <<TD>Recitation</TD>
+        <TD align="left">Topic 1 ~ Topic 5</TD>
+        <TD>
+            -
+        </TD>
+        </TR>
+        <TR class="tablecolor5">
+          <TD>8</TD>
+          <TD>2023.10.26, Tues</TD>
+          <TD>Midterm Exam</TD>
+          <TD align="left"><b>Range: Topic 1 ~ Topic 5</b></TD>
+          <TD>
+          <a href="sample/midterm.pdf">midterm-sample.pdf </a>
+          </TD>
+        </TR>  -->
+
+        <TR class="tablecolor2">
+          <TD>8</TD>
+          <TD>2023.10.19, Thur.</TD>
+          <TD>Topic 6-1: Dynamic Programming</TD>
+          <TD align="left">
+            <b>Chapter 15.</b> Dynamic Programming<br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_6_1_Ch15.pdf">Topic_6_1_Ch15.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>9</TD>
+          <TD>2023.10.24, Tues.</TD>
+          <TD>Topic 6-2: Greedy Algorithm</TD>
+          <TD align="left">
+            <b>Chapter 16.</b> Greedy Algorithm<br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_6_2_Ch16.pdf">Topic_6_2_Ch16.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>9</TD>
+          <TD>2023.10.26, Thur.</TD>
+          <TD>Topic 6-2: Greedy Algorithm</TD>
+          <TD align="left">
+            <b>Chapter 16.</b> Greedy Algorithm<br>
+          </TD>
+          <TD>
+            -
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>10</TD>
+          <TD>2023.10.31, Tues.</TD>
+          <TD>Topic 6-2: Greedy Algorithm</TD>
+          <TD align="left">
+            <b>Chapter 16.</b> Greedy Algorithm<br>
+          </TD>
+          <TD>
+            -
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>10</TD>
+          <TD>2023.11.2, Thur.</TD>
+          <TD>Knapsack Problem</TD>
+          <TD align="left">
+            Knapsack Problem<br>
+          </TD>
+          <TD>
+            <a href="slides/01backpack.pdf">01backpack.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>11</TD>
+          <TD>2023.11.7, Tues.</TD>
+          <TD>Topic 6-3: Amortized Analysis</TD>
+          <TD align="left">
+            <b>Chapter 17.</b> Amortized Analysis<br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_6_3_Ch17.pdf">Topic_6_3_Ch17.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>11</TD>
+          <TD>2023.11.9, Thur.</TD>
+          <TD>Topic 6-4: Divide-and-Conquer</TD>
+          <TD align="left">
+            Divide-and-Conquer Cases<br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_6_4.pdf">Topic_6_4.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>12</TD>
+          <TD>2023.11.14, Tues.</TD>
+          <TD>Online Algorithm</TD>
+          <TD align="left">
+            Online Algorithm<br>
+          </TD>
+          <TD>
+            <a href="slides/OnlineAlgorithm.pdf">OnlineAlgorithm.pdf </a>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>12</TD>
+          <TD>2023.11.16, Thur.</TD>
+          <TD>Topic 7: Graph Algorithms</TD>
+          <TD align="left">
+            <b>Chapter 22.</b> Elementary Graph Algorithms <br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_7_Ch22.pdf">Topic_7_Ch22.pdf</a><br>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>13</TD>
+          <TD>2023.11.28, Tues.</TD>
+          <TD>Topic 7: Graph Algorithms</TD>
+          <TD align="left">
+            <b>Chapter 23.</b> Minimum Spanning Trees <br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_7_Ch23.pdf">Topic_7_Ch23.pdf </a><br>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>13</TD>
+          <TD>2023.11.30, Thur.</TD>
+          <TD>Topic 7: Graph Algorithms</TD>
+          <TD align="left">
+            <b>Chapter 24.</b> Single-Source Shortest Paths <br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_7_Ch24.pdf">Topic_7_Ch24.pdf </a><br>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>14</TD>
+          <TD>2023.12.5, Tues.</TD>
+          <TD>Topic 7: Graph Algorithms</TD>
+          <TD align="left">
+            <b>Chapter 25.</b> All-Pairs Shortest Paths <br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_7_Ch25.pdf">Topic_7_Ch25.pdf </a><br>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>14</TD>
+          <TD>2023.12.7, Thur.</TD>
+          <TD>Topic 7: Graph Algorithms</TD>
+          <TD align="left">
+            <b>Chapter 26.</b> Maximum Flow <br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_7_Ch26.pdf">Topic_7_Ch26.pdf </a><br>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor4">
+          <TD>15</TD>
+          <TD>2023.12.12, Tues.</TD>
+          <TD>Recitation</TD>
+            <TD align="left">Topic 6 ~ Topic 7</TD>
+            <TD>
+              -
+            </TD>
+        </TR>
+
+        <TR class="tablecolor1">
+          <TD>15</TD>
+          <TD>2023.12.14, Thur.</TD>
+          <TD>Topic 8: String Matching</TD>
+          <TD align="left">
+            <b>Chapter 32.</b> String Matching <br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_8_Ch32.pdf">Topic_8_Ch32.pdf </a><br>
+          </TD>
+        </TR>
+
+        <TR class="tablecolor2">
+          <TD>16</TD>
+          <TD>2023.12.19, Tues.</TD>
+          <TD>Topic 8: String Matching</TD>
+          <TD align="left">
+            <b>Chapter 32.</b> String Matching <br>
+          </TD>
+          <TD>
+            -
+          </TD>
+        </TR>
+        <TR class="tablecolor1">
+          <TD>16</TD>
+          <TD>2023.12.21, Thur.</TD>
+          <TD>Topic 9: NP-Completeness and Approximation Algorithms</TD>
+          <TD align="left">
+            <b>Chapter 34.</b> NP-Completeness <br>
+            <b>Chapter 35.</b> Approximation Algorithms <br>
+          </TD>
+          <TD>
+            <a href="slides/Topic_9_1_Ch34.pdf">Topic_9_1_Ch34.pdf </a><br>
+            <a href="slides/Topic_9_2_Ch35.pdf">Topic_9_2_Ch35.pdf </a><br>
+          </TD>
+        </TR>
+
+        <!-- <TR class="tablecolor5">
+          <TD>19</TD>
+          <TD>2023.1.11, Tues.</TD>
+          <TD>Final Exam</TD>
+          <TD align="left"><b>Range: Topic 1 ~ Topic 9</b></TD>
+          <TD>
+           <a href="sample/final.pdf">final-sample.pdf </a>
+          </TD>
+          </TR>
+        -->
+      </center>
+    </TABLE>
+
+    <!-- </font> -->
+    <!-- <div id="footer">     
+      <br>
+      <center>
+      Copyright: LINKE LAB, USTC
+      </center>
+      </div>-->
+</body>
