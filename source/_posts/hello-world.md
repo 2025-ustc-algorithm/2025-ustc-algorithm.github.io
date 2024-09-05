@@ -39,7 +39,6 @@ QQ群号：626321052
 ### Course goals
 
 Students should be able to：
-
 > - Use big O, Omega, and Theta notation to give asymptotic upper, lower, and tight bounds on time and space complexity of algorithms.
 > - Determine the time complexity of simple algorithms, deduce the recurrence relations that describe the time complexity of recursively defined algorithms, and solve simple recurrence relations.
 > - Design algorithms using strategies such as the <b>brute-force, greedy, dynamic programming, divide-and-conquer</b>.
@@ -52,12 +51,14 @@ Students should be able to：
 
 > - 作业和实验 **25%** 
 >   - 作业每周都会有明确的截止日期
->   - 5~6 次实验。
+>   - 5次实验。
 > - 期中考试 **20%**
 > - 期末考试 **40%**
 > - 到课情况和课堂表现 **15%**
 >   - 出勤及课堂测验 (**10%**).
 >   - 积极的学生（例如，与老师互动）将有机会获得5分 (**5%**).
+
+----
 
 ### 作业和实验提交
 
@@ -65,3 +66,13 @@ Students should be able to：
 >   - 作业命名格式：学号_姓名.文件拓展名 (c.g., PB19011000_ZhangSan.pdf)
 >   - Latex is perferred.
 > - 实验网址待定，第一次实验将在九月底发布
+
+### 请假规定
+
+因病、因事等需要请假的同学请将请假条以email格式发送给李向阳老师(邮箱：xiangyangli@ustc.edu.cn)或谈海生老师（邮箱：hstan@ustc.edu.cn）。
+
+同时，邮件命名：【算法基础请假】学号+姓名+日期。邮件需抄送你的班主任，以及助教（邮箱：yixianghu@mail.ustc.edu.cn）。
+
+### 习题课
+
+习题课会在几次作业发布后组织，到时候会统计同学们的时间来安排。
