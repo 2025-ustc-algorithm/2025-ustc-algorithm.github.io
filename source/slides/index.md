@@ -10,7 +10,7 @@ title: 课程日程表及讲义
 - [🔗Topic_1](/slides/Algorithm2024_Topic_1.pdf)
 - [🔗Topic_2](/slides/Algorithm2024_Topic_2.pdf)
 - [🔗Topic_3](/slides/Algorithm2024_Topic_3.pdf)
-- [🔗Topic_4_1](/slides/Algorithm2024_Topic_4_1.pdf)
+- [🔗Topic_4_1](/slides/Algorithm2024_Topic_4_1(Ch8).pdf)
 
 ## Schedule
 
