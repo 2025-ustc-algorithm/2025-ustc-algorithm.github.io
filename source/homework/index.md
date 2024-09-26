@@ -16,3 +16,6 @@ title: 课程作业及答案
 
 - [🔗Homework 2](/homework/hw2.pdf) 
   - Deadline: 2024 年 9 月 25 日 23:59
+
+- [🔗Homework 3](/homework/hw3.pdf) 
+  - Deadline: 2024 年 10 月 10 日 23:59
