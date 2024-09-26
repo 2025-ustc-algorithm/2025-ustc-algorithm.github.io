@@ -22,5 +22,6 @@ title: 课程日程表及讲义
 | 3    | 9月10日（周二） | **Topic 2:** Aysmptotic Mark and Recursive Equation          | **Chapter 3：** Growth of Functions                          |
 | 4    | 9月12日（周四） | **Topic 2:** Aysmptotic Mark and Recursive Equation<br />**Topic 3:** Comparision Based Sorting Algorithm | **Chapter 3：** Growth of Functions<br />* Simple Sorting Algorithms<br />* Shellsort |
 | 5    | 9月19日（周四） | **Topic 3:** Comparision Based Sorting Algorithm<br />**Topic 4-1**: Sorting in Linear Time | **Chapter 6：** Heapsort<br/>**Chapter 7：**Quicksort<br />**Chapter 8：**Sorting in Linear Time |
-| 6    | 9月24日（周二） | **Topic 4-1**: Sorting in Linear Time <br />**Topic 4-2:** Medians and Order Statistics | **Chapter 8：**Sorting in Linear Time <br /> **Chapter 9：**Medians and Order Statistics |
-
+| 6    | 9月24日（周二） | **Topic 4-1**: Sorting in Linear Time                        | **Chapter 8：**Sorting in Linear Time                        |
+| 7    | 9月26日（周四） | **Topic 4-2:** Medians and Order Statistics                  | **Chapter 9：**Medians and Order Statistics                  |
+| 8    | 9月28日（周六） |                                                              |                                                              |
