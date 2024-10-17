@@ -30,7 +30,7 @@ title: 课程日程表及讲义
 | 8    | 9月29日（周日）   | **Topic 5-1:**  Advanced Data Structures I                   | **Chapter 12:**  Binary Search Tree                          |
 | 9    | 10月8日（周二）   | **Topic 5-2:**  Advanced Data Structures II                  | Binomial Heap<br />**Chapter 19:** Fibonacci Heap            |
 | 10   | 10月10日（周四）  | **Topic 5-2:**  Advanced Data Structures II                  | **Chapter 19:** Fibonacci Heap                               |
-| 11   | 10月15日 （周二） | **Topic 5-2:**  Advanced Data Structures II<br />**Topic 6-1:**  Dynamic Programming | **Chapter 21:** Data Structure for Disjoint Sets<br />**Chapter 15:** Data Structure for Disjoint Sets |
-| 12   | 10月17日 （周四） | **Topic 6-1:**  Dynamic Programming                          | **Chapter 15:** Data Structure for Disjoint Sets             |
+| 11   | 10月15日 （周二） | **Topic 5-2:**  Advanced Data Structures II<br />**Topic 6-1:**  Dynamic Programming | **Chapter 21:** Data Structure for Disjoint Sets<br />**Chapter 15:** Dynamic Programming |
+| 12   | 10月17日 （周四） | **Topic 6-1:**  Dynamic Programming                          | **Chapter 15:** Dynamic Programming            |
 | 13   | 10月22日 （周二） | **第一次习题课**                                             | **作业1～4，期中样卷讲解**                                   |
 | 14   | 10月24日（周四）  | **期中考试**                                                 |                                                              |
