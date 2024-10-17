@@ -14,6 +14,7 @@ title: 课程日程表及讲义
 - [🔗Topic_4_2](/slides/Algorithm2024_Topic_4_2(Ch9).pdf)
 - [🔗Topic_5_1](/slides/Algorithm2024_Topic_5_1.pdf)
 - [🔗Topic_5_2](/slides/Algorithm2024_Topic_5_2.pdf)
+- [🔗Topic_6_1](/slides/Algorithm2024_Topic_6_1.pdf)
 
 ## Schedule
 
@@ -28,8 +29,8 @@ title: 课程日程表及讲义
 | 7    | 9月26日（周四）   | **Topic 4-2:**  Medians and Order Statistics<br />**Topic 5-1:**   Advanced Data Structures I | Chapter 9: Medians and Order Statistics<br />Chapter 12:  Binary Search Tree |
 | 8    | 9月29日（周日）   | **Topic 5-1:**  Advanced Data Structures I                   | Chapter 12:  Binary Search Tree                              |
 | 9    | 10月8日（周二）   | **Topic 5-2:**  Advanced Data Structures II                  | Binomial Heap<br />Chapter 19: Fibonacci Heap                |
-| 10   | 10月10日（周四）  | **Topic 5-2:**  Advanced Data Structures II                  | Chapter 19: Fibonacci Heap<br />Chapter 21: Data Structure for Disjoint Sets |
-| 11   | 10月15日 （周二） | **Topic 5-2:**  Advanced Data Structures II                  | Chapter 21: Data Structure for Disjoint Sets                 |
-| 12   | 10月17日 （周四） |                                                              |                                                              |
+| 10   | 10月10日（周四）  | **Topic 5-2:**  Advanced Data Structures II                  | Chapter 19: Fibonacci Heap                                   |
+| 11   | 10月15日 （周二） | **Topic 5-2:**  Advanced Data Structures II<br />**Topic 6-1:**  Dynamic Programming | Chapter 21: Data Structure for Disjoint Sets<br />Chapter 15: Data Structure for Disjoint Sets |
+| 12   | 10月17日 （周四） | **Topic 6-1:**  Dynamic Programming                          | Chapter 15: Data Structure for Disjoint Sets                 |
 | 13   | 10月22日 （周二） | **第一次习题课**                                             | 作业1～4，期中样卷讲解                                       |
 | 14   | 10月24日（周四）  | **期中考试**                                                 |                                                              |

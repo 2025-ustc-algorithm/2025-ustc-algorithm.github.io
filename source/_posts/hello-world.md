@@ -81,6 +81,6 @@ Students should be able to：
 
 ### 请假规定
 
-因病、因事等需要请假的同学请将请假条以email格式发送给李向阳老师(邮箱：xiangyangli@ustc.edu.cn)或谈海生老师（邮箱：hstan@ustc.edu.cn）。
+因病、因事等需要请假的同学请将请假条以email格式发送给李向阳老师(邮箱：xiangyangli@ustc.edu.cn)或谈海生老师(邮箱：hstan@ustc.edu.cn)。
 
 同时，邮件命名：【算法基础请假】学号+姓名+日期。邮件需抄送你的班主任，以及助教（邮箱：yixianghu@mail.ustc.edu.cn）。
