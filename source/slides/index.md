@@ -15,6 +15,7 @@ title: 课程日程表及讲义
 - [🔗Topic_5_1](/slides/Algorithm2024_Topic_5_1.pdf)
 - [🔗Topic_5_2](/slides/Algorithm2024_Topic_5_2.pdf)
 - [🔗Topic_6_1](/slides/Algorithm2024_Topic_6_1.pdf)
+- [🔗Topic_6_2](/slides/Algorithm2024_Topic_6_2.pdf)
 
 ## Schedule
 
@@ -31,6 +32,8 @@ title: 课程日程表及讲义
 | 9    | 10月8日（周二）   | **Topic 5-2:**  Advanced Data Structures II                  | Binomial Heap<br />**Chapter 19:** Fibonacci Heap            |
 | 10   | 10月10日（周四）  | **Topic 5-2:**  Advanced Data Structures II                  | **Chapter 19:** Fibonacci Heap                               |
 | 11   | 10月15日 （周二） | **Topic 5-2:**  Advanced Data Structures II<br />**Topic 6-1:**  Dynamic Programming | **Chapter 21:** Data Structure for Disjoint Sets<br />**Chapter 15:** Dynamic Programming |
-| 12   | 10月17日 （周四） | **Topic 6-1:**  Dynamic Programming                          | **Chapter 15:** Dynamic Programming            |
+| 12   | 10月17日 （周四） | **Topic 6-1:**  Dynamic Programming                          | **Chapter 15:** Dynamic Programming                          |
 | 13   | 10月22日 （周二） | **第一次习题课**                                             | **作业1～4，期中样卷讲解**                                   |
 | 14   | 10月24日（周四）  | **期中考试**                                                 |                                                              |
+| 15   | 10月29日          | **Topic 6-1:**  Dynamic Programming<br />**Topic 6-2:**  Greedy Algorithm | **Chapter 15:** Dynamic Programming<br />**Chapter 16:**  Greedy Algorithm |
+| 16   | 10月31日          | **Topic 6-2:**  Greedy Algorithm                             | **Chapter 16:**  Greedy Algorithm                            |
