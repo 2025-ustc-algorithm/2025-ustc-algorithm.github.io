@@ -17,6 +17,9 @@ title: 课程日程表及讲义
 - [🔗Topic_6_1](/slides/Algorithm2024_Topic_6_1.pdf)
 - [🔗Topic_6_2](/slides/Algorithm2024_Topic_6_2.pdf)
 
+## 资料
+- [🔗背包九讲](/slides/背包九讲.pdf)
+
 ## Schedule
 
 |      | 时间              | 主题                                                         | 内容（对应《算法导论》教材）                                 |
