@@ -16,7 +16,10 @@ title: 课程日程表及讲义
 - [🔗Topic_5_2](/slides/Algorithm2024_Topic_5_2.pdf)
 - [🔗Topic_6_1](/slides/Algorithm2024_Topic_6_1.pdf)
 - [🔗Topic_6_2](/slides/Algorithm2024_Topic_6_2.pdf)
+- [🔗Topic_6_3](/slides/Algorithm2024_Topic_6_3.pdf)
+- [🔗Topic_6_4](/slides/Algorithm2024_Topic_6_4.pdf)
 - [🔗Topic_6_5](/slides/Algorithm2024_Topic_6_5(01KnapsackProblem).pdf)
+- [🔗Topic_7_Ch22](/slides/Algorithm2024_Topic_7_Ch22.pdf)
 
 ## 资料
 
@@ -42,4 +45,7 @@ title: 课程日程表及讲义
 | 14   | 10月24日（周四）  | **期中考试**                                                 |                                                              |
 | 15   | 10月29日（周二）  | **Topic 6-1:**  Dynamic Programming<br />**Topic 6-2:**  Greedy Algorithm | **Chapter 15:** Dynamic Programming<br />**Chapter 16:**  Greedy Algorithm |
 | 16   | 10月31日（周四）  | **Topic 6-2:**  Greedy Algorithm<br />**Topic 6-5:** Knapsack Problem | **Chapter 16:**  Greedy Algorithm<br />Knapsack Problem      |
-| 17   | 11月5日（周二）   |                                                              |                                                              |
+| 17   | 11月5日（周二）   | **Topic 6-3:**  Amortized Analysis                           | **Chapter 17:**  Amortized Analysis                          |
+| 18   | 11月7日（周四）   | **Topic 6-4:**  Divide and Conquer                           | Devide-and-Conquer Cases                                     |
+| 19   | 11月12日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms                 |
+| 20   | 11月14日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms                 |
