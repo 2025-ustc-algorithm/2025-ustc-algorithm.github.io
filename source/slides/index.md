@@ -51,4 +51,6 @@ title: 课程日程表及讲义
 | 17   | 11月5日（周二）   | **Topic 6-3:**  Amortized Analysis                           | **Chapter 17:**  Amortized Analysis                          |
 | 18   | 11月7日（周四）   | **Topic 6-4:**  Divide and Conquer                           | Devide-and-Conquer Cases                                     |
 | 19   | 11月12日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms                 |
-| 20   | 11月14日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms                 |
+| 20   | 11月14日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms<br />**Chapter 23 :** Minimum Spanning Trees |
+| 21   | 11月19日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 24 :** Single-Source Shortest Paths                |
+| 22   | 11月21日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 25 :** All-Pairs Shortest Paths                    |
