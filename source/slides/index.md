@@ -21,7 +21,9 @@ title: 课程日程表及讲义
 - [🔗Topic_6_5](/slides/Algorithm2024_Topic_6_5(01KnapsackProblem).pdf)
 - [🔗Topic_7_Ch22](/slides/Algorithm2024_Topic_7_Ch22.pdf)
 - [🔗Topic_7_Ch23](/slides/Algorithm2024_Topic_7_Ch23.pdf)
-
+- [🔗Topic_7_Ch24](/slides/Algorithm2024_Topic_7_Ch24.pdf)
+- [🔗Topic_7_Ch25](/slides/Algorithm2024_Topic_7_Ch25.pdf)
+  
 ## 资料
 
 - [🔗背包九讲](/slides/背包九讲.pdf)
