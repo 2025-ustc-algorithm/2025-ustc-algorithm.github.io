@@ -23,7 +23,8 @@ title: 课程日程表及讲义
 - [🔗Topic_7_Ch23](/slides/Algorithm2024_Topic_7_Ch23.pdf)
 - [🔗Topic_7_Ch24](/slides/Algorithm2024_Topic_7_Ch24.pdf)
 - [🔗Topic_7_Ch25](/slides/Algorithm2024_Topic_7_Ch25.pdf)
-  
+- [🔗Topic_7_Ch26](/slides/Algorithm2024_Topic_7_Ch26.pdf) 
+
 ## 资料
 
 - [🔗背包九讲](/slides/背包九讲.pdf)
@@ -54,3 +55,4 @@ title: 课程日程表及讲义
 | 20   | 11月14日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms<br />**Chapter 23 :** Minimum Spanning Trees |
 | 21   | 11月19日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 24 :** Single-Source Shortest Paths                |
 | 22   | 11月21日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 25 :** All-Pairs Shortest Paths                    |
+| 23   | 11月26日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 26 :**                   |
