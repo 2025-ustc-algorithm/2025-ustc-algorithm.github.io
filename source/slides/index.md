@@ -55,4 +55,5 @@ title: 课程日程表及讲义
 | 20   | 11月14日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms<br />**Chapter 23 :** Minimum Spanning Trees |
 | 21   | 11月19日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 24 :** Single-Source Shortest Paths                |
 | 22   | 11月21日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 25 :** All-Pairs Shortest Paths                    |
-| 23   | 11月26日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 26 :**                   |
+| 23   | 11月26日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 26 :**Maximum Flow                                 |
+| 24   | 11月28日（周四）  | **<font color="red">本次课程暂停，调课到期末</font>**        |                                                              |
