@@ -24,7 +24,7 @@ title: 课程日程表及讲义
 - [🔗Topic_7_Ch24](/slides/Algorithm2024_Topic_7_Ch24.pdf)
 - [🔗Topic_7_Ch25](/slides/Algorithm2024_Topic_7_Ch25.pdf)
 - [🔗Topic_7_Ch26](/slides/Algorithm2024_Topic_7_Ch26.pdf) 
-- [🔗Topic_OnlineAlgorithm](/slides/Algorithm2024_Topic_OnlineAlgorithm.pdf) 
+- [🔗Topic_OnlineAlgorithm](/slides/Algorithm2024_Topic_OnlineAlgorithm.pdf) - [🔗Topic_8_Ch32](/slides/Algorithm2024_Topic_8_Ch32.pdf) 
 
 ## 资料
 
