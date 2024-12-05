@@ -24,7 +24,8 @@ title: 课程日程表及讲义
 - [🔗Topic_7_Ch24](/slides/Algorithm2024_Topic_7_Ch24.pdf)
 - [🔗Topic_7_Ch25](/slides/Algorithm2024_Topic_7_Ch25.pdf)
 - [🔗Topic_7_Ch26](/slides/Algorithm2024_Topic_7_Ch26.pdf) 
-- [🔗Topic_OnlineAlgorithm](/slides/Algorithm2024_Topic_OnlineAlgorithm.pdf) - [🔗Topic_8_Ch32](/slides/Algorithm2024_Topic_8_Ch32.pdf) 
+- [🔗Topic_OnlineAlgorithm](/slides/Algorithm2024_Topic_OnlineAlgorithm.pdf) 
+- [🔗Topic_8_Ch32](/slides/Algorithm2024_Topic_8_Ch32.pdf) 
 
 ## 资料
 
@@ -56,5 +57,13 @@ title: 课程日程表及讲义
 | 20   | 11月14日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms<br />**Chapter 23 :** Minimum Spanning Trees |
 | 21   | 11月19日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 24 :** Single-Source Shortest Paths                |
 | 22   | 11月21日（周四）  | **Topic 7:** Graph Algorithms                                | **Chapter 25 :** All-Pairs Shortest Paths                    |
-| 23   | 11月26日（周二）  | **Topic 7:** Graph Algorithms                                | **Chapter 26 :** Maximum Flow                                 |
+| 23   | 11月26日（周二）  | **Topic 7:** Graph Algorithms<br />**Online Algorithm**      | **Chapter 26 :** Maximum Flow<br />**Online Algorithm**      |
 | 24   | 11月28日（周四）  | **<font color="red">本次课程暂停，调课到期末</font>**        |                                                              |
+| 25   | 12月3日（周二）   | **Topic 7:** Graph Algorithms                                | **Chapter 26 :** Maximum Flow                                |
+| 26   | 12月5日（周四）   | **Topic 7:** Graph Algorithms<br />**Topic 8:** String Matching | **Chapter 32:** String Matching                              |
+| 27   | 12月10日（周二）  | **Topic 8:** String Matching                                 | **Topic 8:** String Matching                                 |
+| 28   | 12月12日（周四）  | **Topic 9:** NP-Completeness and Approximation Algorithms    | **Chapter 34:** NP-Completeness<br />**Chapter 35:** Approximation Algorithms |
+| 29   | 12月24日（周二）  | **第二次习题课**                                             |                                                              |
+| 30   | 12月26日（周四）  | **第三次习题课**                                             |                                                              |
+| 31   | 25年1月5日        | **<font color="red">期末考试</font>**                        | **<font color="red">8:30～10:30</font>**                     |
+
