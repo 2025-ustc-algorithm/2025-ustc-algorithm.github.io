@@ -65,7 +65,6 @@ title: 课程日程表及讲义
 | 26   | 12月5日（周四）   | **Topic 7:** Graph Algorithms<br />**Topic 8:** String Matching | **Chapter 32:** String Matching                              |
 | 27   | 12月10日（周二）  | **Topic 8:** String Matching                                 | **Topic 8:** String Matching                                 |
 | 28   | 12月12日（周四）  | **Topic 9:** NP-Completeness and Approximation Algorithms    | **Chapter 34:** NP-Completeness<br />**Chapter 35:** Approximation Algorithms |
-| 29   | 12月24日（周二）  | **第二次习题课**                                             |                                                              |
-| 30   | 12月26日（周四）  | **第三次习题课**                                             |                                                              |
-| 31   | 25年1月5日        | **<font color="red">期末考试</font>**                        | **<font color="red">8:30～10:30</font>**                     |
+| 29   | 12月26日（周四）  | **第二次习题课**                                             |                                                              |
+| 30   | 25年1月4日        | **<font color="red">期末考试</font>**                        | **<font color="red">8:30～10:30</font>**                     |
 
