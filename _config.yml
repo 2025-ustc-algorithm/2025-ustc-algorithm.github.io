@@ -4,7 +4,7 @@
 
 # Site
 title: 算法基础课程主页
-subtitle: '2024 秋季'
+subtitle: '2025 秋季'
 description: ''
 keywords:
 author: ''
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://2024-ustc-algorithm.github.io
+url: http://2025-ustc-algorithm.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,6 +101,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/VansWaston/2025-ustc-algorithm.github.io.git
+  branch: main
 
 # node type: v21.7.3
