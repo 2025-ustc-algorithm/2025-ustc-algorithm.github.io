@@ -1,5 +1,5 @@
 ---
-title: 2024年秋季算法基础课程介绍
+title: 2025年秋季算法基础课程介绍
 ---
 
 ### 任课教师
@@ -11,15 +11,13 @@ title: 2024年秋季算法基础课程介绍
 | 姓名   | 邮箱                           | Q&A Time                   |
 | ------ | ------------------------------ | -------------------------- |
 | 章馨月 | xinyuezhang@mail.ustc.edu.cn   | 周一 9:00p.m. ~ 11:00 p.m. |
-| 胡毅翔 | yixianghu@mail.ustc.edu.cn     | 周二 9:00p.m. ~ 11:00 p.m. |
-| 张婧苗 | nanshan@mail.ustc.edu.cn       | 周三 9:00p.m. ~ 11:00 p.m. |
-| 刘知源 | mizuhara@mail.ustc.edu.cn      | 周四 9:00p.m. ~ 11:00 p.m. |
-| 曾舒立 | zengshuli0130@mail.ustc.edu.cn | 周五 9:00p.m. ~ 11:00 p.m. |
+| 曾舒立 | zengshuli0130@mail.ustc.edu.cn | 周二 9:00p.m. ~ 11:00 p.m. |
+| 万子豪 | wanzihao-working@mail.ustc.edu.cn| 周三 9:00p.m. ~ 11:00 p.m. |
+| 石予希 | shiyuxi@mail.ustc.edu.cn       | 周四 9:00p.m. ~ 11:00 p.m. |
 
 ### 课程时间
-> - 第一至第十五周
-> - 周二（2:00 p.m. - 3:35 p.m.)
-> - 周四（2:00 p.m. - 3:35 p.m.)
+> - 第一至第十八周
+> - 周五 (9:45 a.m. - 12:10 a.m.)
 
 ### 教室
 
@@ -27,7 +25,7 @@ title: 2024年秋季算法基础课程介绍
 
 ### 课程群
 
-QQ群号：626321052
+QQ群号: 1059721001
 
 ### 习题课
 
@@ -35,11 +33,11 @@ QQ群号：626321052
 
 ### 实验课线下答疑时间
 
-共6次，目前已预约3次
+共6次, 时间待定
 
-> - 10月12日 高新园区信智楼A807会议室 14:00～18:20
+<!-- > - 10月12日 高新园区信智楼A807会议室 14:00～18:20
 > - 10月23日 高新园区信智楼A907会议室 14:00～18:20
-> - 11月16日 高新园区信智楼A807会议室 14:00～18:20
+> - 11月16日 高新园区信智楼A807会议室 14:00～18:20 -->
 
 ----
 
@@ -77,10 +75,10 @@ Students should be able to：
 > - 作业在[blackboard系统](https://www.bb.ustc.edu.cn/)上提交
 >   - 作业命名格式：学号_姓名.文件拓展名 (c.g., PB19011000_ZhangSan.pdf)
 >   - Latex is perferred.
-> - 实验网址: https://hydro.ac/d/USTC_Algorithm_2024/ 具体实验要求见群通知
+> - 实验网址: https://cloud.linkeedge.top:14432 具体实验要求见群通知
 
 ### 请假规定
 
 因病、因事等需要请假的同学请将请假条以email格式发送给李向阳老师(邮箱：xiangyangli@ustc.edu.cn)或谈海生老师(邮箱：hstan@ustc.edu.cn)。
 
-同时，邮件命名：【算法基础请假】学号+姓名+日期。邮件需抄送你的班主任，以及助教（邮箱：yixianghu@mail.ustc.edu.cn）。
+同时，邮件命名：【算法基础请假】学号+姓名+日期。邮件需抄送你的班主任，以及助教（邮箱: zengshuli0130@mail.ustc.edu.cn ）。
