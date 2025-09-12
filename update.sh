@@ -1,5 +1,9 @@
 # main分支为web分支，source分支为同步分支
-message="update"
+if [ $# -gt 0 ]; then
+    message=$1
+else
+    message="update"
+fi
 
 # git update
 git add -A
