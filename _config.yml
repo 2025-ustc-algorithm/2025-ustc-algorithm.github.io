@@ -102,7 +102,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/VansWaston/2025-ustc-algorithm.github.io.git
-  branch: web
+  repo: git@github.com:2025-ustc-algorithm/2025-ustc-algorithm.github.io.git
+  branch: main
 
 # node type: v21.7.3
