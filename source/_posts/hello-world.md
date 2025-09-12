@@ -75,7 +75,7 @@ Students should be able to：
 > - 作业在[blackboard系统](https://www.bb.ustc.edu.cn/)上提交
 >   - 作业命名格式：学号_姓名.文件拓展名 (c.g., PB19011000_ZhangSan.pdf)
 >   - Latex is perferred.
-> - 实验网址: https://cloud.linkeedge.top:14432 具体实验要求见群通知
+> - 实验网址: https://hydro.ac/d/USTC_Algorithm_2025/ 具体实验要求见群通知
 
 ### 请假规定
 

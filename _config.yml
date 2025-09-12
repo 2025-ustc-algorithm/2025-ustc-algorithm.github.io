@@ -103,6 +103,6 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/VansWaston/2025-ustc-algorithm.github.io.git
-  branch: main
+  branch: web
 
 # node type: v21.7.3
