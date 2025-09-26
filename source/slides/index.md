@@ -9,10 +9,10 @@ title: 课程日程表及讲义
 - [🔗Topic_0](Algorithm_2025_Topic_0.pdf)
 - [🔗Topic_1](Algorithm_2025_Topic_1.pdf)
 - [🔗Topic_2](Algorithm_2025_Topic_2.pdf)
-
-<!--
-
 - [🔗Topic_3](Algorithm_2025_Topic_3.pdf)
+
+<!-- 
+
 - [🔗Topic_4_1](Algorithm_2025_Topic_4_1(Ch8).pdf)
 - [🔗Topic_4_2](Algorithm_2025_Topic_4_2(Ch9).pdf)
 - [🔗Topic_5_1](Algorithm_2025_Topic_5_1.pdf)
