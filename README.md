@@ -3,7 +3,8 @@
 
 # 更新博客
 1. 修改`source`文件
-2. 执行`sh update.sh`
+2. 切换到`git source`分支并同步
+3. 执行`sh update.sh`
 
 # 同步本地内容
 1. 切换到`source`分支并同步
