@@ -8,7 +8,10 @@ title: 课程日程表及讲义
 
 - [🔗Topic_0](Algorithm_2025_Topic_0.pdf)
 - [🔗Topic_1](Algorithm_2025_Topic_1.pdf)
-<!-- - [🔗Topic_2](Algorithm_2025_Topic_2.pdf)
+- [🔗Topic_2](Algorithm_2025_Topic_2.pdf)
+
+<!--
+
 - [🔗Topic_3](Algorithm_2025_Topic_3.pdf)
 - [🔗Topic_4_1](Algorithm_2025_Topic_4_1(Ch8).pdf)
 - [🔗Topic_4_2](Algorithm_2025_Topic_4_2(Ch9).pdf)
@@ -27,7 +30,9 @@ title: 课程日程表及讲义
 - [🔗Topic_OnlineAlgorithm](Algorithm_2025_Topic_OnlineAlgorithm.pdf) 
 - [🔗Topic_8_Ch32](Algorithm_2025_Topic_8_Ch32.pdf) 
 - [🔗Topic_9_1](Algorithm_2025_Topic_9_1.pdf) 
-- [🔗Topic_9_2](Algorithm_2025_Topic_9_2.pdf)  -->
+- [🔗Topic_9_2](Algorithm_2025_Topic_9_2.pdf) 
+
+-- >
 
 ## 资料
 
@@ -39,7 +44,7 @@ title: 课程日程表及讲义
 | ---- | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | 9月12日（周五）    | **Topic 0:**  Introduction<br />**Topic 1:**  Algorithm Concept | Introduction<br />**Chapter 1:**  The Role of Algorithms in Computing<br />**Chapter 2:**  Getting Started |
 | 2    | 9月19日（周五）    | **Topic 2:**  Aysmptotic Mark and Recursive Equation        | **Chapter 3:**  Growth of Functions                              |
-| 3    | 9月26日（周五）   | **Topic 3:**  Comparision Based Sorting Algorithm         | Simple Sorting Algorithms<br />Shellsort<br />**Chapter 6:** Heapsort<br />**Chapter 7:** Quicksort                          |
+| 3    | 9月26日（周五）   | **Topic 2:**  Aysmptotic Mark and Recursive Equation<br />**Topic 3:**  Comparision Based Sorting Algorithm | Simple Sorting Algorithms<br />Shellsort<br />**Chapter 6:** Heapsort<br />**Chapter 7:** Quicksort                          |
 | 4    | 10月3日（周五）   | **Topic 4-1:**  Sorting in Linear Time<br />**Topic 4-2:**  Medians and Order Statistics | **Chapter 8:** Sorting in Linear Time<br />**Chapter 9:** Medians and Order Statistics |
 | 5    | 10月10日（周五）   | **Topic 5-1:**  Advanced Data Structures I | **Chapter 12:**  Binary Search Tree |
 | 6    | 10月17日（周五）   | **Topic 5-2:**  Advanced Data Structures II                  | **Chapter 19:** Fibonacci Heap            |
