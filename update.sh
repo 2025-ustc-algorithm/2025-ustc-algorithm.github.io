@@ -2,7 +2,7 @@
 if [ $# -gt 0 ]; then
     message=$1
 else
-    message="update"
+    message="update web"
 fi
 
 # git update
