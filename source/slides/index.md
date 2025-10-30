@@ -13,6 +13,7 @@ title: 课程日程表及讲义
 - [🔗Topic_4_1](Algorithm_2025_Topic_4_1(Ch8).pdf)
 - [🔗Topic_4_2](Algorithm_2025_Topic_4_2(Ch9).pdf)
 - [🔗Topic_5_1](Algorithm_2025_Topic_5_1.pdf)
+- [🔗Topic_5_2](Algorithm_2025_Topic_5_2.pdf)
 <!-- 
 - [🔗Topic_5_2](Algorithm_2025_Topic_5_2.pdf)
 - [🔗Topic_6_1](Algorithm_2025_Topic_6_1.pdf)
