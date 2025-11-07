@@ -8,7 +8,7 @@ git push origin source:main --force
 git push origin source:source --force
 
 # hexo update
-# npx hexo clean && npx hexo generate && npx hexo deploy
+npx hexo clean && npx hexo generate && npx hexo deploy
 
 # git sync
-# git pull origin source
+git checkout source
