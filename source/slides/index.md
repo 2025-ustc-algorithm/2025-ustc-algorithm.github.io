@@ -17,14 +17,14 @@ title: 课程日程表及讲义
 - [🔗Topic_6_1](Algorithm_2025_Topic_6_1.pdf)
 - [🔗Topic_6_2](Algorithm_2025_Topic_6_2.pdf)
 - [🔗Topic_6_4](Algorithm_2025_Topic_6_4.pdf)
+- [🔗Topic_7_Ch22](Algorithm_2025_Topic_7_ch22.pdf)
+- [🔗Topic_7_Ch23](Algorithm_2025_Topic_7_ch23.pdf)
+- [🔗Topic_7_Ch24](Algorithm_2025_Topic_7_ch24.pdf)
+- [🔗Topic_7_Ch25](Algorithm_2025_Topic_7_ch25.pdf)
 
 <!-- 
 - [🔗Topic_6_3](Algorithm_2025_Topic_6_3.pdf)
 - [🔗Topic_6_5](Algorithm_2025_Topic_6_5(01KnapsackProblem).pdf)
-- [🔗Topic_7_Ch22](Algorithm_2025_Topic_7_Ch22.pdf)
-- [🔗Topic_7_Ch23](Algorithm_2025_Topic_7_Ch23.pdf)
-- [🔗Topic_7_Ch24](Algorithm_2025_Topic_7_Ch24.pdf)
-- [🔗Topic_7_Ch25](Algorithm_2025_Topic_7_Ch25.pdf)
 - [🔗Topic_7_Ch26](Algorithm_2025_Topic_7_Ch26.pdf) 
 - [🔗Topic_OnlineAlgorithm](Algorithm_2025_Topic_OnlineAlgorithm.pdf) 
 - [🔗Topic_8_Ch32](Algorithm_2025_Topic_8_Ch32.pdf) 
