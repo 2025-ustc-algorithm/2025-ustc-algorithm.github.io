@@ -21,6 +21,8 @@ title: 课程日程表及讲义
 - [🔗Topic_7_Ch23](Algorithm_2025_Topic_7_ch23.pdf)
 - [🔗Topic_7_Ch24](Algorithm_2025_Topic_7_ch24.pdf)
 - [🔗Topic_7_Ch25](Algorithm_2025_Topic_7_ch25.pdf)
+- [🔗Topic_7_Ch26](Algorithm_2025_Topic_7_Ch26.pdf) 
+- [🔗Topic_OnlineAlgorithm](Algorithm_2025_Topic_Online_Algorithm.pdf) 
 
 <!-- 
 - [🔗Topic_6_3](Algorithm_2025_Topic_6_3.pdf)
@@ -57,7 +59,7 @@ title: 课程日程表及讲义
 | 14   | 12月12日（周五）   | **Topic 7:** Graph Algorithms                                | **Chapter 22:**  Elementary Graph Algorithms<br />**Chapter 23 :** Minimum Spanning Trees |
 | 15   | 12月17日（周三）   | **Topic 7:** Graph Algorithms                                | **Chapter 24 :** Single-Source Shortest Paths<br />**Chapter 25 :** All-Pairs Shortest Paths|
 | 16   | 12月19日（周五）     | **Topic 7:** Graph Algorithms<br />Online Algorithm      | **Chapter 26 :** Maximum Flow<br />**Online Algorithm**      |
-| 17   | 12月26日（周五） | **Topic 8:** String Matching                                 | **Topic 8:** String Matching                                 |
+| 17   | 12月26日（周五） | **Topic 7:** Graph Algorithms<br />**Topic 8:** String Matching | **Chapter 26 :** Maximum Flow<br />**Topic 8:** String Matching    |
 | 18   | 26年1月9日（周五）| **Topic 9:** NP-Completeness and Approximation Algorithms    | **Chapter 34:** NP-Completeness<br />**Chapter 35:** Approximation Algorithms |
 <!-- | 19   | 26年1月23日（周五）| **拓展内容/习题课**                        |  online algorithm, approximation algorithms，习题课   | -->
 
