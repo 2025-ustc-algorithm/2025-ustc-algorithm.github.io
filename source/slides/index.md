@@ -23,6 +23,9 @@ title: 课程日程表及讲义
 - [🔗Topic_7_Ch25](Algorithm_2025_Topic_7_ch25.pdf)
 - [🔗Topic_7_Ch26](Algorithm_2025_Topic_7_Ch26.pdf) 
 - [🔗Topic_OnlineAlgorithm](Algorithm_2025_Topic_Online_Algorithm.pdf) 
+- [🔗Topic_8_Ch32](Algorithm_2025_Topic_8_Ch32.pdf) 
+- [🔗Topic_9_1](Algorithm_2025_Topic_9_Ch34.pdf) 
+- [🔗Topic_9_2](Algorithm_2025_Topic_9_Ch35.pdf) 
 
 <!-- 
 - [🔗Topic_6_3](Algorithm_2025_Topic_6_3.pdf)
@@ -61,6 +64,7 @@ title: 课程日程表及讲义
 | 16   | 12月19日（周五）     | **Topic 7:** Graph Algorithms<br />Online Algorithm      | **Chapter 26 :** Maximum Flow<br />**Online Algorithm**      |
 | 17   | 12月26日（周五） | **Topic 7:** Graph Algorithms<br />**Topic 8:** String Matching | **Chapter 26 :** Maximum Flow<br />**Topic 8:** String Matching    |
 | 18   | 26年1月9日（周五）| **Topic 9:** NP-Completeness and Approximation Algorithms    | **Chapter 34:** NP-Completeness<br />**Chapter 35:** Approximation Algorithms |
-<!-- | 19   | 26年1月23日（周五）| **拓展内容/习题课**                        |  online algorithm, approximation algorithms，习题课   | -->
+| 19   | 26年1月16日（周五）| **习题课**                            |  习题课       |
+| 20   | 26年1月19日（周一）| **期末考试**                          |  期末考试     |
 
 课程安排可能会因实际情况具体调整。

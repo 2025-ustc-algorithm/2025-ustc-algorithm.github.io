@@ -32,6 +32,11 @@ title: 课程作业及答案
 - [🔗Homework 7](hw7.pdf) 
   - Deadline: 2025 年 12 月 28 日 23:59 
 
+- [🔗Homework 8](hw8.pdf) 
+  - Deadline: 2026 年 1 月 11 日 23:59 
+
+- [🔗Homework 9](hw9.pdf) 
+  - Deadline: 2026 年 1 月 18 日 23:59 
 <!-- 
 
 
